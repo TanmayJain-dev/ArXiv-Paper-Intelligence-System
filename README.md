@@ -11,7 +11,7 @@ An advanced, end-to-end Natural Language Processing (NLP) application built to s
 *(Watch the AI in action: Semantic Search, Summarization, and Keyword Extraction)*
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/443b05ac-2caf-4126-824c-c0d3599f1f65" width="800" controls="controls"></video>
+  <video src="https://github.com/user-attachments/assets/4074b5ff-8606-45b1-ae4c-53f138321b02" width="800" controls="controls"></video>
 </div>
 <br>
 
